@@ -3,6 +3,8 @@
 // 1: use strict (in JSTutor)
 'use strict';
 
+debugger;
+
 /*
 
   for (
