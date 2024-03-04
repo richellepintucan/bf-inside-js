@@ -3,6 +3,8 @@
 // 1: use strict
 'use strict';
 
+debugger;
+
 console.log('-- begin --');
 
 /* anatomy of a for loop: https://javascript.info/while-for#the-for-loop

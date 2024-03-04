@@ -1,9 +1,12 @@
 import { readNumber, readString, display } from '../../../../lib/dom-io.js';
 
-document.getElementById(__).addEventListener('click', () => {
+document.getElementById('repeat-them').addEventListener('click', () => {
   debugger;
 
   // read user values
+
+  const left = readNumber('left')
+  const right = readNumber('right')
 
   // repeat the characters in the text
 
