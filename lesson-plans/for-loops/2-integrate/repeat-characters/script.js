@@ -4,15 +4,19 @@ document.getElementById('repeat-them').addEventListener('click', () => {
   debugger;
 
   // read user values
-
-  const left = readNumber('left')
-  const right = readNumber('right')
+  let userInput = readString('user-text');
+  let numOfTimes = readNumber('number-of-times');
+  let resultString = '';
 
   // repeat the characters in the text
 
-  for (_; _; _) {
-    for (_; _; _) {}
+  for (let i = 0; i < userInput.length ; i++ ) {
+    for (let j = 0; j < numOfTimes; j++ ) {
+      resultString = resultString + userInput[i];
+
+    }
   }
 
   // display the text with repeated characters
+  display('repeated-output', +resultString);
 });
