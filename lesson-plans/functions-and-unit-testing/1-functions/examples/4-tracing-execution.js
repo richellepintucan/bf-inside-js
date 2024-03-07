@@ -8,6 +8,8 @@
 // 1: use strict
 'use strict';
 
+debugger;
+
 // 2: declare variable flipper and declare the function assigned to it
 const flipper = (param1, param2) => {
   // 4, 11: a return value is generated

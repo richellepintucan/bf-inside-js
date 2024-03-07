@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 // PS. study this in JS Tutor!
 
 // RETURN VALUES allow you to send values from functions to parent scope
