@@ -8,7 +8,7 @@ document.getElementById('pyramid-it').addEventListener('click', () => {
   const userInput = readString('to-pyramid')
 
   // create the pyramid
-  let pyramid = "";
+  let pyramid = '';
 
   for (let i = 0; i < userInput.length; i++) {
     let row = userInput.substr(i) + '\n';
