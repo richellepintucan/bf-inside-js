@@ -30,6 +30,6 @@ describe('boolean values', () => {
     expect(true).toEqual(true);
   });
   it('false is false', () => {
-    expect(false).toEqual(false);
+    expect(false).toEqual(true);
   });
 });
