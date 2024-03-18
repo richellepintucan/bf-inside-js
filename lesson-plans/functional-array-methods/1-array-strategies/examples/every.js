@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 console.log('-- begin --');
 
 // determine if something is true about every entry in an array

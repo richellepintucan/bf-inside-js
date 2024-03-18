@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /* Passing Functions
 
   the big idea of callbacks is not complicated:

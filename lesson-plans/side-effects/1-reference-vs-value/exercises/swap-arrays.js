@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 // -- declare variables (this is correct) --
 let a = [1, 2, 3];
 const aReference = a;
@@ -8,6 +10,9 @@ const bReference = b;
 let temp;
 
 // -- swap reference types (write this code) --
+temp = a;
+a = b;
+b = temp;
 
 // -- assert the references (this is correct) --
 console.assert(a === bReference, 'a references the array with strings');
