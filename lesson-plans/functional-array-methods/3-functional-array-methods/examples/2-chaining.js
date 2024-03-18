@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /* you may want to do multiple operations on the same data
 
   this is easy using multiple array methods in a row
