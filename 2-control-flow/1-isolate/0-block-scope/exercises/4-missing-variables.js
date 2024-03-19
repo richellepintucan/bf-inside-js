@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 console.log('-- begin --');
 
 let x = 'hi!';
@@ -11,7 +13,7 @@ let y = 'hi!';
   let y = 'bye!';
 }
 x = 'bye!';
-console.assert(_ === 'hi!', 'Test 1');
-console.assert(_ === 'bye!', 'Test 2');
+console.assert(y === 'hi!', 'Test 1');
+console.assert(x === 'bye!', 'Test 2');
 
 console.log('-- end --');
