@@ -1,6 +1,7 @@
 // #todo
 
 'use strict';
+debugger;
 
 console.log('-- begin --');
 
