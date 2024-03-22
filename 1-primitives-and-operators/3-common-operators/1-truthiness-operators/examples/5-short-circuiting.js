@@ -1,5 +1,9 @@
 // #todo
 
+'use strict';
+
+debugger;
+
 /* Short-Circuiting
 
   This is a fun and tricky thing about &&, ||, ? :

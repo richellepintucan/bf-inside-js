@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 // There are many kinds of numbers in JS
 // instead of guessing, use typeof!
 

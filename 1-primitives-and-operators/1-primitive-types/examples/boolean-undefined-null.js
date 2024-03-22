@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 // the final 3 types are much simpler than Strings and Numbers
 
 // there are only 2 "boolean" values in JavaScript

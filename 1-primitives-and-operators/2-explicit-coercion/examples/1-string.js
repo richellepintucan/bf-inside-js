@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 console.log('-- begin --');
 
 // casting to string is the simplest coercion

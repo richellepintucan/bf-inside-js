@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 /* ||
   the or operator does not evaluate to true or false!
   it reads from left to right and evaluates to the first truthy value
