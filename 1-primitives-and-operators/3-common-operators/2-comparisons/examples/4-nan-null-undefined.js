@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 console.log('-- begin --');
 
 /* Comparing `NaN`, `null` & `undefined`

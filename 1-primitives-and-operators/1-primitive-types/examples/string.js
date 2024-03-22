@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 // strs are anything between quotations
 
 const str1 = '';

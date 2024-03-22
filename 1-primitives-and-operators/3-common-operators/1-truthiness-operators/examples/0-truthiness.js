@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 console.log('-- begin --');
 
 /* truthiness is whether a value coerces to `true` or `false

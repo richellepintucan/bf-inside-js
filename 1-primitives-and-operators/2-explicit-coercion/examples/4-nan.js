@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 // NaN is a strange thing in JavaScript
 //  if you are not careful about types in your programs ...
 //  ... NaN will come to get you!

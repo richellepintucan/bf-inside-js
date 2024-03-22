@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 // there are 5 main primitive types in JavaScript
 // the typeof operator will tell you what type a value is
 
