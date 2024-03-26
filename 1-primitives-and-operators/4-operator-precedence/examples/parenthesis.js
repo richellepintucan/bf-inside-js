@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /* Parenthesis
 
   wrapping an expression in parenthesis changes the order of operations
